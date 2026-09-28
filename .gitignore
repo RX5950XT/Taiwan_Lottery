@@ -1,7 +1,5 @@
 __pycache__/
 *.pyc
 .venv/
-# 玩運彩（playsport.cc）第三方資料，不公開散布；用 src/sports/scrape.py 重抓
-data/sports/
 # ml_backtest.py 的 26 MB 逐期明細
 output/ml_results.json

@@ -158,7 +158,7 @@
 src/lottery/     台彩：抓資料、分析、畫圖、ML 回測、選號工具、其他遊戲
 src/sports/      運彩：抓歷史賠率、分析
 data/lottery/    台彩官方 API 開獎資料（*.json）
-data/sports/     運彩歷史賠率與比分（*.jsonl，每行一場；第三方資料不附在 repo，用 scrape.py 重抓）
+data/sports/     運彩歷史賠率與比分（*.jsonl，每行一場；來源：玩運彩 playsport.cc）
 output/          分析結果（json）、圖表（png）、報告（md、txt）
 docs/            研究報告
 ```
